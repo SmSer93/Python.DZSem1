@@ -89,3 +89,4 @@ public class main {
         return String.valueOf(Names.values()[new Random().nextInt(Names.values().length)]);
     }
 }
+
